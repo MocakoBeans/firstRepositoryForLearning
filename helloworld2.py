@@ -1,5 +1,4 @@
 #Adding new file
-words = ['Hello', 'World', '!']
+words = ['Hello ', 'World', '!']
 for w in words:
-    print (w)
-  
+    print (w, end="")
