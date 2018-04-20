@@ -1,2 +1,2 @@
 # firstRepositoryForLearning
-No conents
+重い腰を上げて、ようやくGitHubを使ってみることにしました
